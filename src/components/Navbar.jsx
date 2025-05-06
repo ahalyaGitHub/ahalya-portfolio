@@ -64,7 +64,7 @@ const Navbar = () => {
       {/* Mobile Navigation Menu */}
       {isOpen && (
         <motion.div
-          className="md:hidden bg-gray-800/95 backdrop-blur-md"
+          className="md:hidden bg-gray-800/95 backdrop-blur-md font-mono"
           initial={{ opacity: 0, height: 0 }}
           animate={{ opacity: 1, height: "auto" }}
           exit={{ opacity: 0, height: 0 }}
