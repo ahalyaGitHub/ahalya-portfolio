@@ -65,6 +65,15 @@ const Projects = () => {
       githubLink: "https://github.com/ahalyaGitHub/gpa-cgpa-calculator",
       color: "",
     },
+    {
+      title: "Billig Software",
+      description: "Built a custom billing system for my shop, Ahalya Traders, to generate and manage bills and customers with ease.",
+      image: "/billing-software.jpg",
+      tags: ["React", "Node.js", "Express", "MongoDB"],
+      liveLink: "https://billing-software-one.vercel.app/",
+      githubLink: "https://github.com/ahalyaGitHub/billing-software.git",
+      color: "",
+    },
   ]
 
   return (
