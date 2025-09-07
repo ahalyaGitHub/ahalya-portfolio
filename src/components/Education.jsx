@@ -48,7 +48,7 @@ const Education = () => {
                 <h3 className="text-xl font-semibold">Kongu Engineering College</h3>
                 <p className="text-gray-400 mb-2">B.E. in Computer Science and Engineering (2022–2026)</p>
                 <div className="flex items-center gap-2">
-                  <span className="px-3 py-1 bg-purple-500/20 rounded-full text-sm">CGPA: 8.23</span>
+                  <span className="px-3 py-1 bg-purple-500/20 rounded-full text-sm">CGPA: 8.14</span>
                 </div>
               </div>
             </div>
